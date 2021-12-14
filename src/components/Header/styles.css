@@ -17,7 +17,7 @@ header.black {
 }
 
 .header--logo {
-    height: 25px;
+    height: 60px;
 }
 
 .header--logo img {
@@ -25,7 +25,7 @@ header.black {
 }
 
 .header--user {
-    height: 35%;
+    height: 50%;
 }
 
 .header--user img {

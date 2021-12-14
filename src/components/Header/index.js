@@ -1,12 +1,12 @@
 import React from 'react';
-import './Header.css';
+import './styles.css';
 
 export default ({black}) => {
     return (
         <header className={black ? 'black' : ''}>
            <div className="header--logo">
             <a href="/">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png" alt="Netflix" />
+                <img src="https://www.caviarcriativo.com/wp-content/uploads/2020/06/Significados-da-Marca-Netflix-1000x480.gif" alt="Netflix" />
             </a>
            </div>
            <div className="header--user">

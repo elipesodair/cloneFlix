@@ -1,9 +1,9 @@
 import React, {useEffect, useState} from 'react';
 import './App.css'
 import Tmdb from './Tmdb';
-import MovieRow from './components/MovieRow';
+import MovieRow from './components/MovieRow/index';
 import FeaturedMovie from './components/FeaturedMovie';
-import Header from './components/Header';
+import Header from './components/Header/index';
 
 
 // eslint-disable-next-line import/no-anonymous-default-export
