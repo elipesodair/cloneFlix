@@ -5,7 +5,7 @@
 .featured--vertical{
     width: inherit;
     height: inherit;
-    background: linear-gradient(to top, #111 10%, transparent );
+    background: linear-gradient(to top, #111 10%, transparent);
 }
 
 .featured--horizontal{
@@ -29,13 +29,6 @@
     font-size: 18px;
     font-weight: bold;
     margin-top: 15px;
-}
-
-.featured--points,
-.featured--year,
-.featured--seasons {
-   display:inline-block;
-   margin-right: 15px;
 }
 
 .featured--points{
@@ -91,13 +84,13 @@
         height: 90vh;
     }
     .featured--name{
-        font-size:40px;
+        font-size:35px;
     }
     .featured--info{
         font-size:16px;        
     }
     .featured--description{
-        font-size:14px; 
+        font-size:12px; 
         max-width: 100%;
         margin-right: 30px;    
     }
