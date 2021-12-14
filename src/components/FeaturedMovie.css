@@ -5,7 +5,7 @@
 .featured--vertical{
     width: inherit;
     height: inherit;
-    background: linear-gradient(to top, #111 10%, transparent);
+    background: linear-gradient(to top, #111 10%, transparent );
 }
 
 .featured--horizontal{
@@ -29,6 +29,13 @@
     font-size: 18px;
     font-weight: bold;
     margin-top: 15px;
+}
+
+.featured--points,
+.featured--year,
+.featured--seasons {
+   display:inline-block;
+   margin-right: 15px;
 }
 
 .featured--points{
