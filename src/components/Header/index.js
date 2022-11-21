@@ -6,7 +6,7 @@ export default ({black}) => {
         <header className={black ? 'black' : ''}>
            <div className="header--logo">
             <a href="/">
-                <img src="https://www.caviarcriativo.com/wp-content/uploads/2020/06/Significados-da-Marca-Netflix-1000x480.gif" alt="Netflix" />
+                <img src="" alt="Netflix" />
             </a>
            </div>
            <div className="header--user">
