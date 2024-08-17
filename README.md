@@ -14,9 +14,6 @@
    - [Deploy](#deployment)
    - [`npm run build` falha ao minificar](#npm-run-build-fails-to-minify)
 
----
-
-Esse índice ajudará a navegar pelo README de forma eficiente!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
