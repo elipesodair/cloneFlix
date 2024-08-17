@@ -1,3 +1,22 @@
+# Índice
+
+1. [Introdução](#getting-started-with-create-react-app)
+2. [Scripts Disponíveis](#available-scripts)
+   - [`npm start`](#npm-start)
+   - [`npm test`](#npm-test)
+   - [`npm run build`](#npm-run-build)
+   - [`npm run eject`](#npm-run-eject)
+3. [Saiba Mais](#learn-more)
+   - [Divisão de Código (Code Splitting)](#code-splitting)
+   - [Analisando o Tamanho do Bundle](#analyzing-the-bundle-size)
+   - [Criando um Progressive Web App](#making-a-progressive-web-app)
+   - [Configuração Avançada](#advanced-configuration)
+   - [Deploy](#deployment)
+   - [`npm run build` falha ao minificar](#npm-run-build-fails-to-minify)
+
+---
+
+Esse índice ajudará a navegar pelo README de forma eficiente!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
